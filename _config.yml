@@ -1,1 +1,4 @@
-theme: cayman
+theme: jekyll-theme-cayman
+title: 100/150 Van Ness Amenities App
+description: Managing your reservations is now easier and faster
+show_downloads: false
